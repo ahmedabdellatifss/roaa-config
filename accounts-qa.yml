@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to RoaaBank accounts related QA APIs "
   contactDetails:
     name: "Mohammed - QA Lead"
-    email: "f6df01ff5e701f27144caf93d17a4f1178bbd7cf0db4b40ab499193266c6391b"
+    email: "{cipher}f6df01ff5e701f27144caf93d17a4f1178bbd7cf0db4b40ab499193266c6391b"
   onCallSupport:
     - (666) 265-3765
     - (555) 734-8371
