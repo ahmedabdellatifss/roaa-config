@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to RoaaBank Loans related prod APIs "
+  message: "Welcome to RoaaBank Loans related production APIs "
   contactDetails:
     name: "Ahmed- Product Owner"
     email: "ahmed@roaa.com"
