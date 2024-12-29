@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to RoaaBank Cards related prod APIs "
+  message: "Welcome to RoaaBank Cards related production APIs "
   contactDetails:
     name: "Ahmed- Product Owner"
     email: "ahmed@roaa.com"
