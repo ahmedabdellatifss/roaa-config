@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to RoaaBank accounts related docker APIs "
+  message: "Welcome to RoaaBank accounts related local APIs "
   contactDetails:
     name: "Ahmed Mohammed - Developer"
     email: "ahmedmohmmed1992@gmail.com"
